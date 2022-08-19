@@ -1,5 +1,5 @@
 # Speedcubing_Project-SnT
-This project was offered by the Speedcubing Club, IIT Kanpur under the Science and Technology Council during  2020-21-II Semester. The Solver part focused on solving a random scramble of a 3x3 cube using the [Thistlethwaite method](https://www.speedsolving.com/wiki/index.php/Thistlethwaite%27s_algorithm).
+This project was offered by the Speedcubing Club, IIT Kanpur under the Science and Technology Council during  2020-21 Summer term. The Solver part focused on solving a random scramble of a 3x3 cube using the [Thistlethwaite method](https://www.speedsolving.com/wiki/index.php/Thistlethwaite%27s_algorithm).
 
 ## [Solver Part Assignments](./Assignments)
 
