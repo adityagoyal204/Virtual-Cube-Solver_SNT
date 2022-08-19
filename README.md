@@ -12,7 +12,7 @@ It was based on [Cube Theory](https://drive.google.com/file/d/1-L8xNXRVEk7S3XBuY
 ### [Assignment 2](https://drive.google.com/file/d/1XwmhHPa-5fvditAgEnfbNlL2H7o9env8/view?usp=sharing)
 
 We had to learn about [C++ STL](https://www.topcoder.com/thrive/articles/Power%20up%20C++%20with%20the%20Standard%20Template%20Library%20Part%20One) and [Graphs](https://drive.google.com/drive/folders/1qQd7vYsYINyJXW3aAHLy3GQ-X2Ykwsfj?usp=sharing).
-The submission to assignment can be found as [P1Q1](./Assignments/P1Q1.cpp), [P1Q2](./Assignments/P1Q2.cpp), [P1Q3](./Assignments/P1Q3.cpp), [P1Q4](./Assignments/P1Q4.cpp), [P2Q1](./Assignments/P2Q1.docx), [P2Q2](./Assignments/P2Q2.docx), [P2Q3](./Assignments/P2Q3.docx) and [P2Q4](./Assignments/P2Q4.docx).
+The program of the problem statements can be found as [P1Q1](./Assignments/P1Q1.cpp), [P1Q2](./Assignments/P1Q2.cpp), [P1Q3](./Assignments/P1Q3.cpp), [P1Q4](./Assignments/P1Q4.cpp), [P2Q1](./Assignments/P2Q1.docx), [P2Q2](./Assignments/P2Q2.docx), [P2Q3](./Assignments/P2Q3.docx) and [P2Q4](./Assignments/P2Q4.docx).
 
 ### [Assignment 3](https://drive.google.com/file/d/184hLinhG3RXp9sCip5-nHKNuxxzBZ6Q8/view?usp=sharing)
 
