@@ -3,7 +3,7 @@ This project was offered by the Speedcubing Club, IIT Kanpur under the Science a
 
 ## [Solver Part Assignments](./Assignments)
 
-We were given some assignments to get comfortable with basics of cube theory, cube notations, STL in C++ and graphs. This folder contains my personal submissions.
+We understood the basics of cube theory, cube notations, and other fundamentals and solved a few assignments. We also did some assignments to refreshen the concepts of C++ STL and graph theory. This folder contains my personal assignment submissions.
 
 ### [Assignment 1](./Assignments/Assignment-Cube_Theory.pdf)
 
