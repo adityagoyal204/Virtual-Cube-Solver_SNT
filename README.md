@@ -62,6 +62,7 @@ The [Converter.py](./Solver_Simulator_Integration/Converter.py) contains the cod
 
 
 ### Team Members:
+- Aditya Goyal
 - Mandar Wayal
 - Debanjan Manna
 - Narendra Prajapat
